@@ -12,6 +12,6 @@ public class Dolphin extends Animals implements CanSwim{
 
     @Override
     public void swim() {
-        System.out.print("I can swim! 🐠🐠🐠");
+        System.out.print("I'm swimming! 🐠🐠🐠");
     }
 }
